@@ -1,16 +1,20 @@
 
-<!-- - Outstanding Graduate Award (CUMT), 2025.
+- Academic Conference Support (Telecommunications), 2025.
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
+- Waseda Specific Issues (New Development Support), 2025.
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2024.
+- KIOXIA Feasibility Study Research (KIOXIA), 2024.
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023.
+- Waseda Specific Issues (Research Foundation Formation) (Waseda), 2024.
 
-- Freshman Scholarship (CUMT), 2022.
+- Scholarship for Young Doctoral Students (Waseda), 2023.
 
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
+- Scholarship for Young Doctoral Students (Waseda), 2022.
 
-- First-Prize Corporate Scholarship (CUMT), 2020.
+- Waseda University Scholarship for International Students (Waseda), 2019.
 
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019. -->
+- Third-Prize People’s Scholarship (BIT), 2017.
+
+- Third-Prize People’s Scholarship (BIT), 2016.
+
+- Second-Prize People’s Scholarship (BIT), 2015.
