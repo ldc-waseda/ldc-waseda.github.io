@@ -1,7 +1,7 @@
 
 - Academic Conference Support (Telecommunications), 2025.
 
-- Waseda Specific Issues (New Development Support), 2025.
+- Waseda Specific Issues (New Development Support) (Waseda), 2025.
 
 - KIOXIA Feasibility Study Research (KIOXIA), 2024.
 

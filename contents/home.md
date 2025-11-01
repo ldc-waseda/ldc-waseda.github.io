@@ -18,5 +18,5 @@ B.E., Vehicle Engineering, Beijing Institute of Technology, 2014 to 2018.
 Autopilot Engineer, Suzhou Zhitu Technology Co., Ltd. 2020 to 2022.
 
 #### Research Interests
-Pedestrian Trajectory Prediction, Scenario Aware Feature Embedding, Generative Model, Vision Language Models.
+*Pedestrian Trajectory Prediction*; *Human-Machine Interaction (HMI)*; *Generative Models*; *Vision-Language Models (VLMs)*.
 
