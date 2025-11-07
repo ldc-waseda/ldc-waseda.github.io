@@ -21,3 +21,4 @@
 
 - <strong>D. Li</strong>, P. Chi, Z. Lin, J. Hu*. Sampling the Scenario Feature for Pedestrians Trajectory Prediction,  <strong>in Proc. of 2023 International Conference on Sensing, Measurement and Data Analytics in the era of AI (ICSMD 2023) :)</strong> [[Paper]](https://ieeexplore.ieee.org/document/10490713/)
 
+- <strong>D. Li</strong>. An agricultural autonomous working platform based on crawler robot,  <strong>in Proc. of 2019 Advanced Theory and Application of Control Systems (ATACS2019) :)

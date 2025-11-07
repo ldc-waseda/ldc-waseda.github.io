@@ -12,6 +12,6 @@ Graduate School of Information, Production and Systems (IPS), Waseda University
 - [KT-VAE](https://github.com/ldc-waseda/KT-VAE): Kinematic Temporal VAE for generalized pedestrian trajectory prediction.
 - [TrajSyn](https://github.com/ldc-waseda/TrajSyn): Vision-language guided synthetic trajectory generation for autonomous systems.
 
-### Acknowledgment
+<!-- ### Acknowledgment
 This repository is based on the open-source project by [Sen Li],
-licensed under the MIT License. Modifications and extensions are made by Dongchen Li.
+licensed under the MIT License. Modifications and extensions are made by Dongchen Li. -->
