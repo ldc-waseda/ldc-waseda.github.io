@@ -13,6 +13,8 @@
 
 - Waseda University Scholarship for International Students (Waseda), 2019.
 
+- Second-Prize at the 11th Honda Eco Mileage Challenge China, EV Category, University Division (BIT Yisheng Team III), 2017.
+
 - Third-Prize People’s Scholarship (BIT), 2017.
 
 - Third-Prize People’s Scholarship (BIT), 2016.
