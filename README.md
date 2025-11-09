@@ -6,8 +6,9 @@ Graduate School of Information, Production and Systems (IPS), Waseda University
 - Email: lidongchen[at]fuji.waseda.jp  
 - Affiliation: Waseda University, Graduate School of Information, Production and Systems (IPS)  
 
-### 🧩 Related Research Repositories
+### 🧩 Related Research/Project Repositories
 
+- [Trailer Pose](https://github.com/ldc-waseda/Trailer_pose): Real-time articulated vehicle pose estimation and visualization based on a kinematic tractor–trailer model.
 - [SGPP](https://github.com/ldc-waseda/SAM-Planning): Training-free pedestrian trajectory prediction via segmentation-guided path planning.
 - [KT-VAE](https://github.com/ldc-waseda/KT-VAE): Kinematic Temporal VAE for generalized pedestrian trajectory prediction.
 - [TrajSyn](https://github.com/ldc-waseda/TrajSyn): Vision-language guided synthetic trajectory generation for autonomous systems.
